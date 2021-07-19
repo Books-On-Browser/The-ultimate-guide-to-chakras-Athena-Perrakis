@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47305e0d-d068-48a9-80e6-f525cc3342b7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47305e0d-d068-48a9-80e6-f525cc3342b7</dc:identifier>
+        <dc:title>The Ultimate Guide to Chakras</dc:title>
+        <dc:creator opf:file-as="Perrakis, Athena" opf:role="aut">Athena Perrakis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;B&gt;With &lt;I&gt;The Ultimate Guide to Chakras&lt;/I&gt;, tune in to your chakras, the power centers connecting your physical body and the world of energy.&lt;/B&gt;&lt;p&gt;Your chakras are the power centers that translate between the seen world of the physical body and the unseen world of energy. First discussed in ancient Hindu texts and studied for thousands of years in numerous spiritual traditions, including &lt;B&gt;acupuncture&lt;/B&gt;, &lt;B&gt;meditation&lt;/B&gt;, and &lt;B&gt;yoga&lt;/B&gt;, chakras hold the key to our well-being. By tapping into the power of our chakras, we can &lt;B&gt;live healthier, balanced, and more abundant lives&lt;/B&gt;.&lt;p&gt;Athena Perrakis, leading metaphysical teacher and creator of the world's largest online metaphysical resource website, SageGoddess.com, addresses the &lt;B&gt;nine major chakras &lt;/B&gt;we can tap into to balance, heal, and manifest. This guide explains how and why different &lt;B&gt;crystals&lt;/B&gt;, &lt;B&gt;essential oils&lt;/B&gt;, and &lt;B&gt;sacred plants&lt;/B&gt; help to support each chakra.&lt;p&gt;Each chapter of &lt;I&gt;The Ultimate...</dc:description>
+        <dc:publisher>Fair Winds Press</dc:publisher>
+        <dc:language>pt</dc:language>
+        <meta content="{}" name="calibre:author_link_map"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Capas" type="cover"/>
+    </guide>
+</package>
